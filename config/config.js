@@ -1,7 +1,7 @@
 module.exports = {
   'database': {
-    'dbName': 'mongo-draw2018',
-    'url': 'mongodb://test:ze1234@ds251362.mlab.com:51362/mongo-draw2018'
+    'dbName': 'ganadoqr-mongo',
+    'url': 'mongodb://milo07:ze123456@ds119343.mlab.com:19343/ganadoqr-mongo'
   },
 };
 /*mongoimport -d test-mongo -c employees --type csv --file employees.csv --headerline*/
