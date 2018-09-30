@@ -1,5 +1,5 @@
 const DAO = require('../dao/mongo.dao');
-const COLLECTION  = "categories";
+const COLLECTION  = "ganados";
 
 module.exports = {
   find: function(req, res){
